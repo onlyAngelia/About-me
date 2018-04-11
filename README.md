@@ -1,5 +1,5 @@
 # About-me
-<img class="size-medium wp-image-64 aligncenter" src="http://lanjiying.allenqin.com/wp-content/uploads/2018/03/cropped-cropped-cropped-WechatIMG77-300x280.jpeg" alt="" width="300" height="280" />
+<img class="size-medium wp-image-64 aligncenter" src="https://avatars0.githubusercontent.com/u/9079201?s=400&u=41f73ab7b53d290ee50ce82f99175ff9b7784ce9&v=4" alt="" width="300" height="280" />
 <p style="text-align: center;">Angelia  （AKA:滢姐、经理）</p>
 
 <pre style="text-align: center;">初入江湖、涉世未深，不忘初心、一路前行</pre>
